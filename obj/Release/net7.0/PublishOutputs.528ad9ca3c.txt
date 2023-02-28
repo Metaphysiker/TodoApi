@@ -1,0 +1,12 @@
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/TodoApi
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/appsettings.Development.json
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/appsettings.json
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/TodoApi.dll
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/TodoApi.deps.json
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/TodoApi.runtimeconfig.json
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/TodoApi.pdb
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/sandro/workspace/TodoApi/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
